@@ -129,8 +129,9 @@ Big O notation is used to describe the upper bound of an algorithm's growth rate
 - Example: Permutation-based algorithms, such as generating all permutations of a set.
 Got it! Here's how you can structure the README.md file to include information about arrays in Java:
 
-```markdown
 # Arrays in Java
+
+```markdown
 
 Arrays are a fundamental data structure in Java used to store a fixed-size sequential collection of elements of the same type. They provide a convenient way to work with multiple values of the same data type.
 
