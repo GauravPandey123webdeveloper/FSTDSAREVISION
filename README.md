@@ -141,7 +141,7 @@ Arrays in Java can be created using the array initializer syntax or by using the
 
 ### Array Initializer Syntax
 
-```java
+
 // Syntax: datatype[] arrayName = {value1, value2, ...};
 int[] numbers = {1, 2, 3, 4, 5};
 ```
