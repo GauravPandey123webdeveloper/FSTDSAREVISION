@@ -213,4 +213,3 @@ boolean isEqual = Arrays.equals(array1, array2); // Returns true
 ## Further Reading
 
 For more detailed information about arrays in Java, you can refer to the [Java Arrays Documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html).
-```
